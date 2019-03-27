@@ -13,6 +13,7 @@ setuptools.setup(
     # long_description_content_type="text/markdown",
     url="https://github.com/anselmrothe/progressbar",
     # packages=setuptools.find_packages(),
+    packages=['pb',],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GPL-3.0 ",
