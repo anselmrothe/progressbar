@@ -1,1 +1,1 @@
-from .progressbar import ProgressBar as PB
+from .progressbar import ProgressBar
